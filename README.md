@@ -1,2 +1,2 @@
-# is_project_2
+# is-project-2
 My Computer Science Fourth Year Project
